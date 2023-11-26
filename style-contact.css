@@ -1,0 +1,49 @@
+body {
+    background-image: url('images/bj.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .menubtn {
+    margin-right:60px; 
+        padding:10px 45px;
+        text-align:center; 
+        font-size: 14px;
+        color: white; 
+        border:none; 
+        background-image:linear-gradient(to right,#649bff,#0070fa,#649bff); 
+        border-radius: 10px; 
+        width: min-content;
+        }
+    
+img{
+    height: 50px;
+    width: 50px;
+}
+aside{
+    width: 50%;
+    float: left;
+}
+#com{
+    height: 25%;
+}
+input{
+width: 35%
+}
+section{
+    padding-top: 70px;
+}
+aside{
+    padding-left: 100px;
+}
+p{
+    font-size: 50px;
+    font-style: italic;
+}
+form
+{
+    font-style: italic;
+    font-size: 25px;
+}
+#button{
+    width: 22%;
+}
